@@ -1,0 +1,10 @@
+def try_me():
+    print("\|/    \|/")
+    print("  \    /")
+    print("   \_/  ___   ___")
+    print("   o o-'   '''   '")
+    print("    O -.         |")
+    print("        | |'''| |")
+    print("         ||   | |")
+    print("         ||    ||")
+    print("         "     "")
